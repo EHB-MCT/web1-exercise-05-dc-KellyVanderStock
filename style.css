@@ -20,12 +20,6 @@ h1 {
 	margin-bottom: 50px;
 }
 
-.whoswho {
-	width: 100%;
-	position: relative;
-	float: left;
-	margin-bottom: 50px;
-}
 .item {
 	position: relative;
 	float: left;
@@ -33,4 +27,36 @@ h1 {
 
 .wonderwoman {
 	margin-left: 20px;
+}
+
+.whoswho {
+	width: 100%;
+	position: relative;
+	float: left;
+	margin-bottom: 50px;
+}
+
+.superman {
+	position: relative;
+	float: left;
+}
+
+.batman {
+	position: relative;
+	float: left;
+}
+
+.wonderwoman2 {
+	position: relative;
+	float: left;
+}
+
+.greenlantern {
+	position: relative;
+	float: left;
+}
+
+.flash {
+	position: relative;
+	float: left;
 }
